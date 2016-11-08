@@ -6,8 +6,7 @@ For more information, please see [NIST IR7839](http://nvlpubs.nist.gov/nistpubs/
 
 
 ## Contact
-Developer:    John Grantham (john.grantham@nist.gov)
-
+Developer:    John Grantham (john.grantham@nist.gov)  
 Project Lead: John Libert (john.libert@nist.gov)
 
 
